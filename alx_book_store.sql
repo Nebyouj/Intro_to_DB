@@ -5,7 +5,7 @@ USE alx_book_store;
 --Stores information about authors.
 CREATE TABLE Authors(
     author_id INT PRIMARY KEY,
-    authr_name VARCHAR(215)
+    author_name VARCHAR(215)
 );
 
 -- Stores information about books available in the bookstore.
